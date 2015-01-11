@@ -1,0 +1,6 @@
+# python specific
+*.pyc
+
+# general
+*~
+*.swp
